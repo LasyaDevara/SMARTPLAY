@@ -236,10 +236,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Lucide** for beautiful icons
 - **Pexels** for stock photography
 
-## 📞 Support
-
-For support, email support@smartplay.com or join our Discord community.
-
 ---
 
 Built with ❤️ for educational excellence and childhood development.
