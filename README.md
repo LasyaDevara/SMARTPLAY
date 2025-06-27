@@ -79,7 +79,7 @@ A modern, cloud-powered educational study platform built with React, TypeScript,
 ```bash
 git clone <repository-url>
 cd smartplay
-npm install
+npm install'''
 
 ### 2. Set Up Supabase
 - Create a new project at [supabase.com](https://supabase.com)
